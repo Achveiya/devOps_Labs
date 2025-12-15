@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
         </style>
       </head>
       <body>
-        <h1>��� App déployée avec succès sur Render !</h1>
+        <h1>App déployée avec succès sur Render !</h1>
       </body>
     </html>
   `);
